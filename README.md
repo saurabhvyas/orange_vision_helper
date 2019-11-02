@@ -13,6 +13,8 @@ This projects aims to solve a ton of real world problems. It will make use of op
  
  3. automatic object clustering rules for giving cleaning suggestions :
     everytime a group of similar objects are found in room, an opportunity object will be generated
+    
+ 4. time monitoring, time management of user, it can give you analysis on how much time you spend on music, sleeping etc.
 
 Software Stack
 
